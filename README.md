@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Drakulyx
 - 👀 I’m interested in learning how to programm. I also like the game Minecraft.
-- 🌱 I’m currently learning programming with the harvard cs50 course and also some hardware stuff with comptia a+ courses.
+- 🌱 I’m currently learning programming with the online course harvard CS50x.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (Discord:drakulyx_)
 
